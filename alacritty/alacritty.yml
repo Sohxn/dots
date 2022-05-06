@@ -4,20 +4,11 @@
 
 # Font configuration
 font:
-  # Normal (roman) font face
   normal:
-    # Font family
-    #
-    # Default:
-    #   - (macOS) Menlo
-    #   - (Linux/BSD) monospace
-    #   - (Windows) Consolas
     family: Iosevka
-
-
   size: 9.5
 
-
+# Colours
 colors:
   primary:
     background: '#282a36'
