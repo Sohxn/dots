@@ -1,3 +1,4 @@
 Arch linux rice with bspwm 
 
-<img src = 'https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fqefuzd67vmx81.png'>
+![App Screenshot](https://preview.redd.it/qefuzd67vmx81.png?width=960&crop=smart&auto=webp&s=799fbbd130d7fdb48c847197f4990d1e29e65d5a)
+
